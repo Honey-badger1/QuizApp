@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/honey-badger1.github.io/QuizApp/static/css/main.df312494.chunk.css",
-    "main.js": "/honey-badger1.github.io/QuizApp/static/js/main.b8bff1b9.chunk.js",
-    "main.js.map": "/honey-badger1.github.io/QuizApp/static/js/main.b8bff1b9.chunk.js.map",
-    "runtime-main.js": "/honey-badger1.github.io/QuizApp/static/js/runtime-main.c59184b2.js",
-    "runtime-main.js.map": "/honey-badger1.github.io/QuizApp/static/js/runtime-main.c59184b2.js.map",
-    "static/js/2.7c1741fe.chunk.js": "/honey-badger1.github.io/QuizApp/static/js/2.7c1741fe.chunk.js",
-    "static/js/2.7c1741fe.chunk.js.map": "/honey-badger1.github.io/QuizApp/static/js/2.7c1741fe.chunk.js.map",
-    "index.html": "/honey-badger1.github.io/QuizApp/index.html",
-    "precache-manifest.585201ec4da17bdfd886407acde6baf6.js": "/honey-badger1.github.io/QuizApp/precache-manifest.585201ec4da17bdfd886407acde6baf6.js",
-    "service-worker.js": "/honey-badger1.github.io/QuizApp/service-worker.js",
-    "static/css/main.df312494.chunk.css.map": "/honey-badger1.github.io/QuizApp/static/css/main.df312494.chunk.css.map",
-    "static/js/2.7c1741fe.chunk.js.LICENSE.txt": "/honey-badger1.github.io/QuizApp/static/js/2.7c1741fe.chunk.js.LICENSE.txt"
+    "main.css": "/QuizApp/static/css/main.df312494.chunk.css",
+    "main.js": "/QuizApp/static/js/main.4d11a8cc.chunk.js",
+    "main.js.map": "/QuizApp/static/js/main.4d11a8cc.chunk.js.map",
+    "runtime-main.js": "/QuizApp/static/js/runtime-main.ca1486b2.js",
+    "runtime-main.js.map": "/QuizApp/static/js/runtime-main.ca1486b2.js.map",
+    "static/js/2.7c1741fe.chunk.js": "/QuizApp/static/js/2.7c1741fe.chunk.js",
+    "static/js/2.7c1741fe.chunk.js.map": "/QuizApp/static/js/2.7c1741fe.chunk.js.map",
+    "index.html": "/QuizApp/index.html",
+    "precache-manifest.6b2ded4c7643f1b5ef78c9b6afc17aba.js": "/QuizApp/precache-manifest.6b2ded4c7643f1b5ef78c9b6afc17aba.js",
+    "service-worker.js": "/QuizApp/service-worker.js",
+    "static/css/main.df312494.chunk.css.map": "/QuizApp/static/css/main.df312494.chunk.css.map",
+    "static/js/2.7c1741fe.chunk.js.LICENSE.txt": "/QuizApp/static/js/2.7c1741fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c59184b2.js",
+    "static/js/runtime-main.ca1486b2.js",
     "static/js/2.7c1741fe.chunk.js",
     "static/css/main.df312494.chunk.css",
-    "static/js/main.b8bff1b9.chunk.js"
+    "static/js/main.4d11a8cc.chunk.js"
   ]
 }
