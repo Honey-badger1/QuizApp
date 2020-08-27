@@ -1,0 +1,9 @@
+.isClose{
+    display: none;
+}
+.form-start{
+    justify-content:center;
+    text-align: center;
+    background:rgb(80, 207, 180);
+    margin:15vw auto;  
+}

@@ -1,0 +1,64 @@
+.isClose{
+    display: none;
+    
+}
+.app{
+    display: none;
+    margin: 0 auto;
+    width: 700px;
+}
+.show{
+    display: block;
+    align-items: center;
+    color:white;
+    text-align:center;
+    
+}
+.score{
+    font-size: 25px;
+}
+button{
+    width:200px;
+    height: auto;
+    margin-top:12px;
+    font-size:25px;
+    border-radius:20px;
+}
+button:hover{
+    border: 2px solid blue;
+}
+
+h1{
+    text-align:center;
+    margin-bottom:39px;
+}
+html,body{
+    height: auto;
+    background-image: linear-gradient(-45deg, rgb(69, 57, 179) , rgb(123, 55, 187));
+}
+.form-start{
+    justify-content:center;
+    height: 250px;
+    border-radius:10px;
+    width:400px;
+    text-align: center;
+    background:rgb(112, 136, 204);
+    margin:15vw auto;  
+}
+.score{
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    -webkit-column-width: 200px;
+    -moz-column-width: 200px;
+    column-width: 200px;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    -webkit-column-gap: 30px;
+    -moz-column-gap: 30px;
+    column-gap: 30px;
+    margin: 0;
+    padding: 0;
+  }
